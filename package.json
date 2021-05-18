@@ -1,0 +1,24 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node callback/index.js",
+    "challenge": "node callback/challenge.js",
+    "promise": "node promise/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscars97/Asynchronism-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oscars97/Asynchronism-js/issues"
+  },
+  "homepage": "https://github.com/Oscars97/Asynchronism-js#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
